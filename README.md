@@ -1,11 +1,11 @@
 ## Sup 👋
-##I'm Legion 
-##I'm currently working on a Monster of the Week campaign set in Maine
-##I'm currently learning IT-Programming
-##I'm hoping I can continue to work with XHTML and sling out some more mods for fun
-##I'm learning Python and Unity
-##I'm a beginner Russian speaker. Barely
-##I'm hoping to continue my work in libraries and if I can get roped into work on games that's cool. I can dream. I know it's a dream.
+I'm Legion 
+I'm currently working on a Monster of the Week campaign set in Maine
+I'm currently learning IT-Programming
+I'm hoping I can continue to work with XHTML and sling out some more mods for fun
+I'm learning Python and Unity
+I'm a beginner Russian speaker. Barely
+I'm hoping to continue my work in libraries and if I can get roped into work on games that's cool. I can dream. I know it's a dream.
 <!--
 **Legion-Main/Legion-Main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
